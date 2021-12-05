@@ -38,11 +38,11 @@ class Auto{
 	}
 	
 	public void Jarruta() {
-		System.out.println("Auto jarruttaa");
+		System.out.println("Auto jarruttaa.");
 	}
 	public void Kiihdyta() {
 		if(bensanMaara > 0) {
-		System.out.println("Auto kiihtyy");
+		System.out.println("Auto kiihtyy.");
 		bensanMaara = bensanMaara - 1;
 		}
 		else{
