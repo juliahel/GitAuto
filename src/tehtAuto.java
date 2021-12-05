@@ -7,7 +7,7 @@ public class tehtAuto {
 		
 		auto1.merkki = "Volvo";
 		auto1.malli = "V70";
-		auto1.bensanMaara = 100;
+		auto1.bensanMaara = 10;
 		
 		auto1.NaytaTiedot();
 		auto1.Kiihdyta();
